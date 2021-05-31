@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  display: flex;
+}
+
+.sidebar {
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  text-align: center;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  padding: 0 5px;
+}
